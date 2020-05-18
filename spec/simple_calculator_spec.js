@@ -1,4 +1,4 @@
-const { add, multiply } = require ("..\src\simple_calculator.js")
+const { add, multiply } = require ("../src/simple_calculator.js")
 
 describe("adding numbers", function() {
     it("should add two numbers", function() {
